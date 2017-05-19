@@ -1,0 +1,2 @@
+# dominator
+jst learning..
